@@ -1,0 +1,3 @@
+rootProject.name='serviceDemo'
+include ':app'
+include ':menucontainer'
