@@ -1,6 +1,7 @@
 package com.xyz.service;
 
 import android.app.Service;
+import android.content.ContentProvider;
 import android.content.Intent;
 import android.content.res.Configuration;
 import android.os.IBinder;

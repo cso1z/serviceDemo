@@ -17,9 +17,11 @@
             </intent-filter>
         </activity>
         <activity android:name=".SimpleServiceActivity" />
+        <activity android:name=".BindingActivity" />
 
         <service android:name=".SimpleService"/>
         <service android:name=".SimpleIntentService"/>
+        <service android:name=".LocalService" />
     </application>
 
 </manifest>
